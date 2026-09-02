@@ -20,3 +20,5 @@
 !work/INSTALLER_CS/ui/ui_font.ttf
 /scripts/
 /work/UPDATE_107/
+!release_media/
+!release_media/**
