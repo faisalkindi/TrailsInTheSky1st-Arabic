@@ -1,0 +1,22 @@
+# whitelist: only docs, translation tables, and installer sources are committed.
+# game-extracted data (source/, deploy/, work/) and built binaries stay local.
+*
+!*/
+!.gitignore
+!/README.md
+!/PIPELINE.md
+!/FONT_SPEC.md
+!/t_name.json
+!/t_skill.json
+!/t_help.json
+!work/INSTALLER_107/installer.py
+!work/INSTALLER_107/TrailsAr_Arabic_Installer_107.spec
+!work/INSTALLER_107/run_install_headless.py
+!work/INSTALLER_107/verify_exe.py
+!work/INSTALLER_CS/Program.cs
+!work/INSTALLER_CS/TrailsArabicInstaller.csproj
+!work/INSTALLER_CS/app.manifest
+!work/INSTALLER_CS/ui/logo.png
+!work/INSTALLER_CS/ui/ui_font.ttf
+/scripts/
+/work/UPDATE_107/
