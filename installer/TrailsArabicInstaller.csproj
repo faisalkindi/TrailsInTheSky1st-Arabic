@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>Trails in the Sky 1st Arabic Installer</AssemblyName>
+    <Version>1.1.0</Version>
+    <Product>Trails in the Sky 1st Chapter - Arabic Localization</Product>
+    <Authors>Kindiboy</Authors>
+    <Company>Kindiboy</Company>
+    <Copyright>© Kindiboy</Copyright>
+    <AssemblyTitle>تعريب Trails in the Sky 1st — by Kindiboy</AssemblyTitle>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="payload.zip">
+      <LogicalName>payload.zip</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\ui_bg.jpg">
+      <LogicalName>ui_bg.jpg</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\ui_logo.png">
+      <LogicalName>ui_logo.png</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\ui_font.ttf">
+      <LogicalName>ui_font.ttf</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

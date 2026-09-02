@@ -22,3 +22,9 @@
 /work/UPDATE_107/
 !release_media/
 !release_media/**
+!/installer/
+!/installer/**
+/installer/bin/
+/installer/obj/
+/installer/publish/
+/installer/payload.zip

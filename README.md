@@ -45,10 +45,10 @@
 
 **Install**
 1. Download the installer above and run it — it auto-detects the Steam install (or pick the folder manually).
-2. Click the install button. Originals are backed up automatically to `_arabic_mod_backup`.
+2. Click «تثبيت اللغة العربية». Originals are backed up automatically to `_arabic_mod_backup`.
 3. Set the game language to **English**, then play.
 
-**Uninstall**: run the same installer and click the uninstall button — originals are restored from the backup.
+**Uninstall**: run the same installer and click «استعادة الملفات الأصلية» — originals are restored from the backup.
 
 ## Screenshots
 
