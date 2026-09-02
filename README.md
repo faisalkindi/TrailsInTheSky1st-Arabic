@@ -1,5 +1,7 @@
 <p align="center"><a href="https://ko-fi.com/kindiboy"><img src="https://img.shields.io/badge/Ko--fi-Support%20me%20on%20Ko--fi-ff5f5f?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a></p>
 
+<p align="center"><img src="release_media/01_header_1400x400.jpg" alt="التعريب الكامل" width="100%"></p>
+
 <h1 align="center">Trails in the Sky 1st Chapter — التعريب الكامل</h1>
 <p align="center">Complete Arabic localization for <b>The Legend of Heroes: Trails in the Sky 1st Chapter</b> (Steam) · تعريب كامل للعبة</p>
 
@@ -47,6 +49,10 @@
 3. Set the game language to **English**, then play.
 
 **Uninstall**: run the same installer and click the uninstall button — originals are restored from the backup.
+
+## Screenshots
+
+![Installer](release_media/05_installer_1920x1080.jpg)
 
 ## Notes
 
