@@ -25,7 +25,7 @@
 - **المعارك** — أوامر القتال، المهارات (Crafts) والفنون (Arts) وأوصافها، حالات التأثير
 - **الأغراض والتجهيزات** — الأسماء والأوصاف كاملة
 - **الإنجازات** وصور تبويبات القائمة
-- **صور الواجهة** — 23 صورة معدّلة داخل ملفات اللعبة
+- **الصور** — أكثر من 250 صورة معدّلة داخل ملفات اللعبة: الواجهة ولافتات المتاجر والخرائط والصحف وشاشات التعليمات
 
 **مزايا تقنية**
 - عرض عربي صحيح من اليمين إلى اليسار مع محاذاة يمينية
@@ -42,7 +42,7 @@
 
 ## English
 
-**What it covers.** Every string visible in-game, translated from the original Japanese script with the English localization as cross-reference: the full story and NPC dialogue (46,000+ dialogue bubbles across 154 scenes), menus, battle UI, Crafts/Arts/items and their descriptions, status effects, achievements, and 23 in-game UI textures — with proper right-to-left rendering, right-justified text, correctly shaped Arabic glyphs, addressee-gender-correct grammar, and a custom Arabic font embedded in the game files.
+**What it covers.** Every string visible in-game, translated from the original Japanese script with the English localization as cross-reference: the full story and NPC dialogue (46,000+ dialogue bubbles across 154 scenes), menus, battle UI, Crafts/Arts/items and their descriptions, status effects, achievements, and 250+ in-game textures (UI, shop and inn signs, signposts, maps, newspapers, tutorial screens) — with proper right-to-left rendering, right-justified text, correctly shaped Arabic glyphs, addressee-gender-correct grammar, and a custom Arabic font embedded in the game files.
 
 **Install**
 1. Download the installer above and run it — it auto-detects the Steam install (or pick the folder manually).
